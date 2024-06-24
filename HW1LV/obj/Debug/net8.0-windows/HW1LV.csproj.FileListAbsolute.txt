@@ -1,0 +1,36 @@
+C:\Users\Zord\OneDrive - KFUPM\232\SWE316\dev\HW1LV\HW1LV\obj\Debug\net8.0-windows\HW1LV.Form1.resources
+C:\Users\Zord\OneDrive - KFUPM\232\SWE316\dev\HW1LV\HW1LV\obj\Debug\net8.0-windows\HW1LV.Form2.resources
+C:\Users\Zord\OneDrive - KFUPM\232\SWE316\dev\HW1LV\HW1LV\obj\Debug\net8.0-windows\HW1LV.Properties.Resources.resources
+C:\Users\Zord\OneDrive - KFUPM\232\SWE316\dev\HW1LV\HW1LV\obj\Debug\net8.0-windows\HW1LV.csproj.GenerateResource.cache
+C:\Users\Zord\OneDrive - KFUPM\232\SWE316\dev\HW1LV\HW1LV\obj\Debug\net8.0-windows\HW1LV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zord\OneDrive - KFUPM\232\SWE316\dev\HW1LV\HW1LV\obj\Debug\net8.0-windows\HW1LV.AssemblyInfoInputs.cache
+C:\Users\Zord\OneDrive - KFUPM\232\SWE316\dev\HW1LV\HW1LV\obj\Debug\net8.0-windows\HW1LV.AssemblyInfo.cs
+C:\Users\Zord\OneDrive - KFUPM\232\SWE316\dev\HW1LV\HW1LV\obj\Debug\net8.0-windows\HW1LV.csproj.CoreCompileInputs.cache
+C:\Users\Zord\OneDrive - KFUPM\232\SWE316\dev\HW1LV\HW1LV\bin\Debug\net8.0-windows\HW1LV.exe
+C:\Users\Zord\OneDrive - KFUPM\232\SWE316\dev\HW1LV\HW1LV\bin\Debug\net8.0-windows\HW1LV.deps.json
+C:\Users\Zord\OneDrive - KFUPM\232\SWE316\dev\HW1LV\HW1LV\bin\Debug\net8.0-windows\HW1LV.runtimeconfig.json
+C:\Users\Zord\OneDrive - KFUPM\232\SWE316\dev\HW1LV\HW1LV\bin\Debug\net8.0-windows\HW1LV.dll
+C:\Users\Zord\OneDrive - KFUPM\232\SWE316\dev\HW1LV\HW1LV\bin\Debug\net8.0-windows\HW1LV.pdb
+C:\Users\Zord\OneDrive - KFUPM\232\SWE316\dev\HW1LV\HW1LV\obj\Debug\net8.0-windows\HW1LV.dll
+C:\Users\Zord\OneDrive - KFUPM\232\SWE316\dev\HW1LV\HW1LV\obj\Debug\net8.0-windows\refint\HW1LV.dll
+C:\Users\Zord\OneDrive - KFUPM\232\SWE316\dev\HW1LV\HW1LV\obj\Debug\net8.0-windows\HW1LV.pdb
+C:\Users\Zord\OneDrive - KFUPM\232\SWE316\dev\HW1LV\HW1LV\obj\Debug\net8.0-windows\HW1LV.genruntimeconfig.cache
+C:\Users\Zord\OneDrive - KFUPM\232\SWE316\dev\HW1LV\HW1LV\obj\Debug\net8.0-windows\ref\HW1LV.dll
+C:\Users\Zord\Desktop\HW1LV\HW1LV\bin\Debug\net8.0-windows\HW1LV.exe
+C:\Users\Zord\Desktop\HW1LV\HW1LV\bin\Debug\net8.0-windows\HW1LV.deps.json
+C:\Users\Zord\Desktop\HW1LV\HW1LV\bin\Debug\net8.0-windows\HW1LV.runtimeconfig.json
+C:\Users\Zord\Desktop\HW1LV\HW1LV\bin\Debug\net8.0-windows\HW1LV.dll
+C:\Users\Zord\Desktop\HW1LV\HW1LV\bin\Debug\net8.0-windows\HW1LV.pdb
+C:\Users\Zord\Desktop\HW1LV\HW1LV\obj\Debug\net8.0-windows\HW1LV.Form1.resources
+C:\Users\Zord\Desktop\HW1LV\HW1LV\obj\Debug\net8.0-windows\HW1LV.Form2.resources
+C:\Users\Zord\Desktop\HW1LV\HW1LV\obj\Debug\net8.0-windows\HW1LV.Properties.Resources.resources
+C:\Users\Zord\Desktop\HW1LV\HW1LV\obj\Debug\net8.0-windows\HW1LV.csproj.GenerateResource.cache
+C:\Users\Zord\Desktop\HW1LV\HW1LV\obj\Debug\net8.0-windows\HW1LV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zord\Desktop\HW1LV\HW1LV\obj\Debug\net8.0-windows\HW1LV.AssemblyInfoInputs.cache
+C:\Users\Zord\Desktop\HW1LV\HW1LV\obj\Debug\net8.0-windows\HW1LV.AssemblyInfo.cs
+C:\Users\Zord\Desktop\HW1LV\HW1LV\obj\Debug\net8.0-windows\HW1LV.csproj.CoreCompileInputs.cache
+C:\Users\Zord\Desktop\HW1LV\HW1LV\obj\Debug\net8.0-windows\HW1LV.dll
+C:\Users\Zord\Desktop\HW1LV\HW1LV\obj\Debug\net8.0-windows\refint\HW1LV.dll
+C:\Users\Zord\Desktop\HW1LV\HW1LV\obj\Debug\net8.0-windows\HW1LV.pdb
+C:\Users\Zord\Desktop\HW1LV\HW1LV\obj\Debug\net8.0-windows\HW1LV.genruntimeconfig.cache
+C:\Users\Zord\Desktop\HW1LV\HW1LV\obj\Debug\net8.0-windows\ref\HW1LV.dll
